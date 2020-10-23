@@ -46,7 +46,7 @@ We don't have real domain, so we'll use our local domain:
 ```shell
 npm run setup admin@example.com http://localhost:3001
 ```
-This script will add token with email admin@example.com and my domain to http://localhost
+This script will add token with email admin@example.com and  domain to http://localhost
 
 - **Run Application**
     
